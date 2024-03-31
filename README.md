@@ -1,5 +1,6 @@
 # RumiProject
 
+This is a project about Beauty Salon Website.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
 
 ## Development server
